@@ -1,6 +1,6 @@
-JAVA DA OGRENDIKLERIM
-# java1 System.out.prinln,
-2 int,String,boolen,
+# JAVA DA OGRENDIKLERIM
+1 System.out.prinln
+2 int,String,boolen
 3 double,byte,long
 4 Array[],Array[][]
 5 mesaj(String): mesaj.lenght,mesaj.concert,
